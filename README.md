@@ -8,3 +8,4 @@ What im using the project for:
 C++ Library used is [WiringPi](http://wiringpi.com/)
 
 ![WiringPi pin reference](http://wiringpi.com/wp-content/uploads/2013/03/gpio1.png)
+![WiringPi pin reference (New PIs)](http://wiringpi.com/wp-content/uploads/2013/03/gpio21.png)
